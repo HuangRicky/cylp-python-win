@@ -16,3 +16,7 @@ https://pypi.org/project/cylp/0.7.4/#files
 For your convenience, I also copied Python 3+ binaries.
 
 See release page: https://github.com/HuangRicky/cylp-python-win/releases
+
+
+# If this binary helps you
+Please star this Repo, thank you :)
